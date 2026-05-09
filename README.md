@@ -1,4 +1,4 @@
-# IoT-Data-Simulation-Group6
+# IoT Logistics Data Simulation
 
 The project simulates various data points typically collected by IoT devices in a logistics environment, such as GPS locations, environmental sensors (temperature), and vehicle telematics.
 
